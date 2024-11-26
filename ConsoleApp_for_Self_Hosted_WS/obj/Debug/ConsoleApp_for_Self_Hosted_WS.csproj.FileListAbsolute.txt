@@ -1,0 +1,69 @@
+D:\ENSEIGNEMENTS\SoCWS SI4\TD Self Hosted WS\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\obj\Debug\ConsoleApp_for_Self_Hosted_WS.csprojAssemblyReference.cache
+D:\ENSEIGNEMENTS\SoCWS SI4\TD Self Hosted WS\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\obj\Debug\ConsoleApp_for_Self_Hosted_WS.csproj.CoreCompileInputs.cache
+D:\ENSEIGNEMENTS\SoCWS SI4\TD Self Hosted WS\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\ConsoleApp_for_Self_Hosted_WS.exe.config
+D:\ENSEIGNEMENTS\SoCWS SI4\TD Self Hosted WS\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\ConsoleApp_for_Self_Hosted_WS.exe
+D:\ENSEIGNEMENTS\SoCWS SI4\TD Self Hosted WS\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\ConsoleApp_for_Self_Hosted_WS.pdb
+D:\ENSEIGNEMENTS\SoCWS SI4\TD Self Hosted WS\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\obj\Debug\ConsoleApp_for_Self_Hosted_WS.exe
+D:\ENSEIGNEMENTS\SoCWS SI4\TD Self Hosted WS\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\obj\Debug\ConsoleApp_for_Self_Hosted_WS.pdb
+C:\Users\Ben\Documents\Enseignements\2022-2023\RMISoc\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\ConsoleApp_for_Self_Hosted_WS.exe.config
+C:\Users\Ben\Documents\Enseignements\2022-2023\RMISoc\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\ConsoleApp_for_Self_Hosted_WS.exe
+C:\Users\Ben\Documents\Enseignements\2022-2023\RMISoc\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\ConsoleApp_for_Self_Hosted_WS.pdb
+C:\Users\Ben\Documents\Enseignements\2022-2023\RMISoc\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\obj\Debug\ConsoleApp_for_Self_Hosted_WS.csproj.AssemblyReference.cache
+C:\Users\Ben\Documents\Enseignements\2022-2023\RMISoc\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\obj\Debug\ConsoleApp_for_Self_Hosted_WS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben\Documents\Enseignements\2022-2023\RMISoc\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\obj\Debug\ConsoleApp_for_Self_Hosted_WS.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Documents\Enseignements\2022-2023\RMISoc\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\obj\Debug\ConsoleApp_for_Self_Hosted_WS.exe
+C:\Users\Ben\Documents\Enseignements\2022-2023\RMISoc\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\obj\Debug\ConsoleApp_for_Self_Hosted_WS.pdb
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\obj\Debug\ConsoleApp_for_Self_Hosted_WS.csproj.AssemblyReference.cache
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\obj\Debug\ConsoleApp_for_Self_Hosted_WS.csproj.CoreCompileInputs.cache
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\obj\Debug\ConsoleApp_for_Self_Hosted_WS.exe
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\obj\Debug\ConsoleApp_for_Self_Hosted_WS.pdb
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\ConsoleApp_for_Self_Hosted_WS.exe.config
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\ConsoleApp_for_Self_Hosted_WS.exe
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\ConsoleApp_for_Self_Hosted_WS.pdb
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.Buffers.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.Memory.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.Text.Json.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.ValueTuple.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.Buffers.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.Memory.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.Text.Json.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\System.ValueTuple.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\obj\Debug\ConsoleA.6E742EEF.Up2Date
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\abiha\Desktop\ConsoleApp_for_Self_Hosted_WS\ConsoleApp_for_Self_Hosted_WS\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
